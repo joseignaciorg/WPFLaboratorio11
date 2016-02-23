@@ -1,0 +1,16 @@
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\bin\Debug\WPFLaboratorio11.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\bin\Debug\WPFLaboratorio11.exe
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\bin\Debug\WPFLaboratorio11.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\obj\Debug\WPFLaboratorio11.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\obj\Debug\MainWindow.g.cs
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\obj\Debug\App.g.cs
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\obj\Debug\WPFLaboratorio11_MarkupCompile.cache
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\obj\Debug\WPFLaboratorio11_MarkupCompile.lref
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\obj\Debug\MainWindow.baml
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\obj\Debug\WPFLaboratorio11.g.resources
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\obj\Debug\WPFLaboratorio11.Properties.Resources.resources
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\obj\Debug\WPFLaboratorio11.csproj.GenerateResource.Cache
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\obj\Debug\WPFLaboratorio11.exe
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\obj\Debug\WPFLaboratorio11.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\bin\Debug\Microsoft.WindowsAzure.ActiveDirectory.Authentication.dll
+c:\users\alumno\documents\visual studio 2015\Projects\WPFLaboratorio11\WPFLaboratorio11\bin\Debug\Microsoft.WindowsAzure.ActiveDirectory.Authentication.xml
